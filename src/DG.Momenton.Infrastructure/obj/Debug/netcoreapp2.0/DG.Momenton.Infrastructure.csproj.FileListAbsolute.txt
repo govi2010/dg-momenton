@@ -1,0 +1,9 @@
+C:\Projects\GitHubRepo\dg-momenton\DG.Momenton.Infrastructure\bin\Debug\netcoreapp2.0\DG.Momenton.Infrastructure.deps.json
+C:\Projects\GitHubRepo\dg-momenton\DG.Momenton.Infrastructure\bin\Debug\netcoreapp2.0\DG.Momenton.Infrastructure.dll
+C:\Projects\GitHubRepo\dg-momenton\DG.Momenton.Infrastructure\obj\Debug\netcoreapp2.0\DG.Momenton.Infrastructure.csprojAssemblyReference.cache
+C:\Projects\GitHubRepo\dg-momenton\DG.Momenton.Infrastructure\obj\Debug\netcoreapp2.0\DG.Momenton.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\GitHubRepo\dg-momenton\DG.Momenton.Infrastructure\obj\Debug\netcoreapp2.0\DG.Momenton.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\GitHubRepo\dg-momenton\DG.Momenton.Infrastructure\obj\Debug\netcoreapp2.0\DG.Momenton.Infrastructure.AssemblyInfo.cs
+C:\Projects\GitHubRepo\dg-momenton\DG.Momenton.Infrastructure\bin\Debug\netcoreapp2.0\DG.Momenton.Infrastructure.pdb
+C:\Projects\GitHubRepo\dg-momenton\DG.Momenton.Infrastructure\obj\Debug\netcoreapp2.0\DG.Momenton.Infrastructure.dll
+C:\Projects\GitHubRepo\dg-momenton\DG.Momenton.Infrastructure\obj\Debug\netcoreapp2.0\DG.Momenton.Infrastructure.pdb

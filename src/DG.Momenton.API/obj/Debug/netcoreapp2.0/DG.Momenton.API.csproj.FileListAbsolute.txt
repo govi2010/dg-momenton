@@ -1,0 +1,11 @@
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.API\bin\Debug\netcoreapp2.0\DG.Momenton.API.deps.json
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.API\bin\Debug\netcoreapp2.0\DG.Momenton.API.runtimeconfig.json
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.API\bin\Debug\netcoreapp2.0\DG.Momenton.API.runtimeconfig.dev.json
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.API\bin\Debug\netcoreapp2.0\DG.Momenton.API.dll
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.API\bin\Debug\netcoreapp2.0\DG.Momenton.API.pdb
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.API\obj\Debug\netcoreapp2.0\DG.Momenton.API.csprojAssemblyReference.cache
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.API\obj\Debug\netcoreapp2.0\DG.Momenton.API.csproj.CoreCompileInputs.cache
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.API\obj\Debug\netcoreapp2.0\DG.Momenton.API.AssemblyInfoInputs.cache
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.API\obj\Debug\netcoreapp2.0\DG.Momenton.API.AssemblyInfo.cs
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.API\obj\Debug\netcoreapp2.0\DG.Momenton.API.dll
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.API\obj\Debug\netcoreapp2.0\DG.Momenton.API.pdb

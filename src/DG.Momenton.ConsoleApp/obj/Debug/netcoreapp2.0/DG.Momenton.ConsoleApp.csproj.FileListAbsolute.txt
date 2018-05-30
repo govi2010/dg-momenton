@@ -1,0 +1,10 @@
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.ConsoleApp\bin\Debug\netcoreapp2.0\DG.Momenton.ConsoleApp.deps.json
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.ConsoleApp\bin\Debug\netcoreapp2.0\DG.Momenton.ConsoleApp.runtimeconfig.json
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.ConsoleApp\bin\Debug\netcoreapp2.0\DG.Momenton.ConsoleApp.runtimeconfig.dev.json
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.ConsoleApp\bin\Debug\netcoreapp2.0\DG.Momenton.ConsoleApp.dll
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.ConsoleApp\bin\Debug\netcoreapp2.0\DG.Momenton.ConsoleApp.pdb
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.ConsoleApp\obj\Debug\netcoreapp2.0\DG.Momenton.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.ConsoleApp\obj\Debug\netcoreapp2.0\DG.Momenton.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.ConsoleApp\obj\Debug\netcoreapp2.0\DG.Momenton.ConsoleApp.AssemblyInfo.cs
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.ConsoleApp\obj\Debug\netcoreapp2.0\DG.Momenton.ConsoleApp.dll
+C:\Projects\GitHubRepo\dg-momenton\src\DG.Momenton\DG.Momenton.ConsoleApp\obj\Debug\netcoreapp2.0\DG.Momenton.ConsoleApp.pdb

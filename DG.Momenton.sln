@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DG.Momenton.API", "src\DG.Momenton.API\DG.Momenton.API.csproj", "{B42E8FC1-A444-4BF9-9635-DA3337C5E500}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DG.Momenton.ConsoleApp", "src\DG.Momenton.ConsoleApp\DG.Momenton.ConsoleApp.csproj", "{28B30E50-4B13-4A6C-90F8-15E9C5A3CE05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DG.Momenton.Domain", "src\DG.Momenton.Domain\DG.Momenton.Domain.csproj", "{2A257BD2-8319-4604-97DF-A066868F219E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BBE252CF-5669-4216-910D-4E62774C3D28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A9FA2440-2AF3-47D0-8851-40A2BDB68006}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dg.Momenton.Domain.Test", "test\Dg.Momenton.Domain.Test\Dg.Momenton.Domain.Test.csproj", "{1E13C36D-EBD7-4A62-8CB6-2DEE90D1CD3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DG.Momenton.Infrastructure", "src\DG.Momenton.Infrastructure\DG.Momenton.Infrastructure.csproj", "{D412EB72-0A03-400B-B70C-67568C1D1339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B42E8FC1-A444-4BF9-9635-DA3337C5E500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42E8FC1-A444-4BF9-9635-DA3337C5E500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42E8FC1-A444-4BF9-9635-DA3337C5E500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42E8FC1-A444-4BF9-9635-DA3337C5E500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B30E50-4B13-4A6C-90F8-15E9C5A3CE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B30E50-4B13-4A6C-90F8-15E9C5A3CE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B30E50-4B13-4A6C-90F8-15E9C5A3CE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B30E50-4B13-4A6C-90F8-15E9C5A3CE05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A257BD2-8319-4604-97DF-A066868F219E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A257BD2-8319-4604-97DF-A066868F219E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A257BD2-8319-4604-97DF-A066868F219E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A257BD2-8319-4604-97DF-A066868F219E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E13C36D-EBD7-4A62-8CB6-2DEE90D1CD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E13C36D-EBD7-4A62-8CB6-2DEE90D1CD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E13C36D-EBD7-4A62-8CB6-2DEE90D1CD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E13C36D-EBD7-4A62-8CB6-2DEE90D1CD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D412EB72-0A03-400B-B70C-67568C1D1339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D412EB72-0A03-400B-B70C-67568C1D1339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D412EB72-0A03-400B-B70C-67568C1D1339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D412EB72-0A03-400B-B70C-67568C1D1339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B42E8FC1-A444-4BF9-9635-DA3337C5E500} = {BBE252CF-5669-4216-910D-4E62774C3D28}
+		{28B30E50-4B13-4A6C-90F8-15E9C5A3CE05} = {BBE252CF-5669-4216-910D-4E62774C3D28}
+		{2A257BD2-8319-4604-97DF-A066868F219E} = {BBE252CF-5669-4216-910D-4E62774C3D28}
+		{1E13C36D-EBD7-4A62-8CB6-2DEE90D1CD3E} = {A9FA2440-2AF3-47D0-8851-40A2BDB68006}
+		{D412EB72-0A03-400B-B70C-67568C1D1339} = {BBE252CF-5669-4216-910D-4E62774C3D28}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F6954E3-7C1D-4B38-A9F0-47A11AF23718}
+	EndGlobalSection
+EndGlobal
